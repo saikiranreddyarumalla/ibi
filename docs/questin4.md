@@ -3,7 +3,7 @@
 promise chaining is a way to execute multiple asynchronous tasks one after the other using `.then()`. Each task depends on the successful completion of the previous one. This ensures a sequential flow and makes the code more organized.
 ### Example:
 ``` javascript
-fetchData()
+fetchData() 
   .then(processData)
   .then(saveData)
   .then((result) => {
