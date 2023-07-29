@@ -1,11 +1,11 @@
  # Explain the output of the above-given code and explain why?
 
-for (var i = 0; i < 5; i++) {
+```for (var i = 0; i < 5; i++) {
 
   setTimeout(() => console.log(i), 100)
 
 }
-
+```
 ## ANS:
 
 The output of the code will be 5 5 times.
