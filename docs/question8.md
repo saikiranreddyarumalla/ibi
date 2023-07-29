@@ -10,7 +10,8 @@
 
     console.log(4);
 
-})(); ```
+})();
+```
 
 ## ANS:
 The numbers 1, 4, 3, and 2 will be logged to the console in the order: 1, 4, 3, 2.
