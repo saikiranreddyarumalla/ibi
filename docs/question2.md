@@ -8,7 +8,7 @@
 ```
 ## ANS:
 
-The output of the code will be 5 5 times.
+The output of the code will be ```5``` ```5``` times.
 
 The reason for this is because the setTimeout() function is asynchronous. This means that it does not execute immediately. Instead, it is scheduled to execute after 100 milliseconds. By the time the setTimeout() function executes, the value of i has already been incremented to 5.
 
