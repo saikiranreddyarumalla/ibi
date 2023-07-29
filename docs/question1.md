@@ -1,6 +1,6 @@
 
 # What are the differences between cookie, local storage and session storage?
-
+## ANS:
 Cookies, local storage, and session storage are three different ways to store data in a web browser. Each of them has distinct characteristics and use cases. Here are the main differences between them:
 
 ## Storage Duration:
