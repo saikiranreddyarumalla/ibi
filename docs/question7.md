@@ -1,7 +1,7 @@
 # Use Array.reduce() method to reverse the following given array
 
 ```const arr = [1, 2, 3, 4, 5] ```
-
+## ANS:
 To reverse the given array using the `Array.reduce()` method, you can do the following:
 
 ```javascript
